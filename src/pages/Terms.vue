@@ -1,6 +1,8 @@
 <template>
   <Layout>
-          <strong>Terms &amp; Conditions</strong> <p>
+    <div class="container-inner mx-auto py-16">
+         <h2 class="text-3xl font-bold">Terms &amp; Conditions</h2>
+         <br><p>
                   By downloading or using the app, these terms will
                   automatically apply to you – you should make sure therefore
                   that you read them carefully before using the app. You’re not
@@ -89,7 +91,8 @@
                   rights and licenses granted to you in these terms will end;
                   (b) you must stop using the app, and (if needed) delete it
                   from your device.
-                </p> <p><strong>Changes to This Terms and Conditions</strong></p> <p>
+                </p> <br><br><p><strong>Changes to This Terms and Conditions</strong></p> <p>
+                  <br>
                   I may update our Terms and Conditions
                   from time to time. Thus, you are advised to review this page
                   periodically for any changes. I will
@@ -97,11 +100,11 @@
                   Conditions on this page.
                 </p> <p>
                   These terms and conditions are effective as of 2021-01-25
-                </p> <p><strong>Contact Us</strong></p> <p>
-                  If you have any questions or suggestions about my
-                  Terms and Conditions, do not hesitate to contact me
-                  at support@dfeverx.in.
-                </p>
+                </p> <br><br><p><strong>Contact Us</strong></p><br>	<p>
+				If you have any questions or suggestions about  Terms and Conditions
+contact us at				<a href="mailto:support@dfeverx.in">support@dfeverx.in. </a>
+			</p>
+    </div>
   </Layout>
 </template>
 

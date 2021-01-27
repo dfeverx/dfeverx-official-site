@@ -1,7 +1,8 @@
 <template>
 	<Layout>
-		<div>
-			<strong>Privacy Policy</strong>
+		<div class="container-inner mx-auto py-16">
+			<h2 class="text-3xl font-bold">Privacy Policy</h2>
+			<br />
 			<p>
 				dfeverx built the Get My Exam app as a Freemium app. This
 				SERVICE is provided by dfeverx at no cost and is intended for
@@ -25,7 +26,10 @@
 				in our Terms and Conditions, which is accessible at Get My Exam
 				unless otherwise defined in this Privacy Policy.
 			</p>
+			<br />
+			<br />
 			<p><strong>Information Collection and Use</strong></p>
+			<br />
 			<p>
 				For a better experience, while using our Service, I may require
 				you to provide us with certain personally identifiable
@@ -71,7 +75,10 @@
 					<!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
 				</ul>
 			</div>
+			<br />
+			<br />
 			<p><strong>Log Data</strong></p>
+			<br />
 			<p>
 				I want to inform you that whenever you use my Service, in a case
 				of an error in the app I collect data and information (through
@@ -81,7 +88,62 @@
 				the configuration of the app when utilizing my Service, the time
 				and date of your use of the Service, and other statistics.
 			</p>
+			<br />
+			<br />
+
+			<p><strong>Payment</strong></p>
+
+			<p>
+				We use Razorpay for processing payments. We/Razorpay do not
+				store your card data on their servers. The data is encrypted
+				through the Payment Card Industry Data Security Standard
+				(PCI-DSS) when processing payment. Your purchase transaction
+				data is only used as long as is necessary to complete your
+				purchase transaction. After that is complete, your purchase
+				transaction information is not saved. Our payment gateway
+				adheres to the standards set by PCI-DSS as managed by the PCI
+				Security Standards Council, which is a joint effort of brands
+				like Visa, MasterCard, American Express and Discover. PCI-DSS
+				requirements help ensure the secure handling of credit card
+				information by our store and its service providers. For more
+				insight, you may also want to read terms and conditions of
+				razorpay on https://razorpay.com
+			</p>
+			<br />
+			<br />
+
+			<p><strong>Refund Policy </strong></p>
+			<p>
+				If 24 hours have gone by since your purchase, unfortunately we
+				can’t offer you a refund or exchange. To complete your return,
+				we require a receipt or proof of purchase.
+			</p>
+			<p>
+				<br />
+				<strong>Refunds</strong> <br />
+				Once your refunds request is received and inspected, we will
+				send you an email to notify you that we have received your
+				returned item. We will also notify you of the approval or
+				rejection of your refund. If you are approved, then your refund
+				will be processed, and a credit will automatically be applied to
+				your credit card or original method of payment, within a certain
+				amount of days.
+			</p>
+			<br />
+			<p>
+				<strong>Late or missing refunds</strong> <br />If you haven’t
+				received a refund yet, first check your bank account again. Then
+				contact your credit card company, it may take some time before
+				your refund is officially posted. Next contact your bank. There
+				is often some processing time before a refund is posted. If
+				you’ve done all of this and you still have not received your
+				refund yet, please contact us at support@dfeverx.in .
+			</p>
+			<br />
+			<br />
 			<p><strong>Cookies</strong></p>
+			<br />
+
 			<p>
 				Cookies are files with a small amount of data that are commonly
 				used as anonymous unique identifiers. These are sent to your
@@ -97,7 +159,12 @@
 				to refuse our cookies, you may not be able to use some portions
 				of this Service.
 			</p>
+			<br />
+			<br />
+
 			<p><strong>Service Providers</strong></p>
+			<br />
+
 			<p>
 				I may employ third-party companies and individuals due to the
 				following reasons:
@@ -115,7 +182,12 @@
 				are obligated not to disclose or use the information for any
 				other purpose.
 			</p>
+			<br />
+			<br />
+
 			<p><strong>Security</strong></p>
+			<br />
+
 			<p>
 				I value your trust in providing us your Personal Information,
 				thus we are striving to use commercially acceptable means of
@@ -123,7 +195,12 @@
 				the internet, or method of electronic storage is 100% secure and
 				reliable, and I cannot guarantee its absolute security.
 			</p>
+			<br />
+			<br />
+
 			<p><strong>Links to Other Sites</strong></p>
+			<br />
+
 			<p>
 				This Service may contain links to other sites. If you click on a
 				third-party link, you will be directed to that site. Note that
@@ -133,7 +210,12 @@
 				for the content, privacy policies, or practices of any
 				third-party sites or services.
 			</p>
+			<br />
+			<br />
+
 			<p><strong>Children’s Privacy</strong></p>
+			<br />
+
 			<p>
 				These Services do not address anyone under the age of 13. I do
 				not knowingly collect personally identifiable information from
@@ -144,7 +226,12 @@
 				information, please contact me so that I will be able to do
 				necessary actions.
 			</p>
+			<br />
+			<br />
+
 			<p><strong>Changes to This Privacy Policy</strong></p>
+			<br />
+
 			<p>
 				I may update our Privacy Policy from time to time. Thus, you are
 				advised to review this page periodically for any changes. I will
@@ -152,10 +239,16 @@
 				this page.
 			</p>
 			<p>This policy is effective as of 2021-01-25</p>
+			<br />
+			<br />
+
 			<p><strong>Contact Us</strong></p>
+			<br />
+
 			<p>
 				If you have any questions or suggestions about my Privacy
-				Policy, do not hesitate to contact me at support@dfeverx.in.
+				Policy, do not hesitate to contact us at
+				<a href="mailto:support@dfeverx.in">support@dfeverx.in. </a>
 			</p>
 		</div></Layout
 	>
