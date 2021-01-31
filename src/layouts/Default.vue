@@ -46,7 +46,7 @@
 					data-cypress="menu"
 				>
 					<li class="mb-6 lg:mb-0">
-						<search-input />
+						<!-- <search-input /> -->
 					</li>
 					<li>
 						<theme-switcher
@@ -54,7 +54,7 @@
 							@themeChanged="updateTheme"
 						/>
 					</li>
-					<li>
+					<!-- <li>
 						<a
 							v-if="$route.path === '/'"
 							href="/#projects"
@@ -117,7 +117,7 @@
 							data-cypress="blog"
 							>Blog</g-link
 						>
-					</li>
+					</li> -->
 				</ul>
 			</nav>
 		</header>
@@ -135,24 +135,11 @@
 						Copyright {{ new Date().getFullYear() }}. All rights
 						reserved.
 					</div>
-					<div>
-						<a
-							href="/rss.xml"
-							class="text-white hover:text-gray-400 font-normal"
-							>RSS Feed</a
-						>
-						|
-						<a
-							href="/sitemap.xml"
-							class="text-white hover:text-gray-400 font-normal"
-							>Sitemap</a
-						>
-					</div>
 				</div>
 				<ul class="flex items-center space-x-8">
 					<li>
 						<a
-							href="mailto:me@example.com"
+							href="mailto:support@dfeverx.in"
 							class="text-white hover:text-gray-400"
 						>
 							<svg
@@ -169,7 +156,7 @@
 						</a>
 					</li>
 
-					<li>
+					<!-- <li>
 						<a
 							href="https://youtube.com/drehimself"
 							target="_blank"
@@ -187,9 +174,9 @@
 								/>
 							</svg>
 						</a>
-					</li>
+					</li> -->
 
-					<li>
+					<!-- <li>
 						<a
 							href="https://github.com/drehimself/gridsome-portfolio-starter"
 							target="_blank"
@@ -247,7 +234,7 @@
 								/>
 							</svg>
 						</a>
-					</li>
+					</li> -->
 				</ul>
 			</div>
 		</footer>
